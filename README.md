@@ -1,1 +1,1 @@
-qwe
+No Adaptive
